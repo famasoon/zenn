@@ -6,6 +6,6 @@
   "author": "FAMASoon <famasoon@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.1.99"
+    "zenn-cli": "^0.1.107"
   }
 }
